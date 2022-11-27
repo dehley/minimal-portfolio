@@ -1,2 +1,2 @@
 # minimal-portfolio
-This is a demo project I am creating by following (this tutorial)[https://www.youtube.com/watch?v=b0pkpcD8Ms4] on (Forrest Knights YouTube channel)[https://www.youtube.com/@fknight].
+This is a demo project I am creating by following [this tutorial](https://www.youtube.com/watch?v=b0pkpcD8Ms4) on [Forrest Knights YouTube channel](https://www.youtube.com/@fknight).
